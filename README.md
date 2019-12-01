@@ -1,4 +1,4 @@
-# To quote the creator of the coding challenges "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other."
+To quote the creator of the coding challenges "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other."
 
 This repo contains my solutions for the daily challenges, while using either Python or Javascript as language of choice.
 
